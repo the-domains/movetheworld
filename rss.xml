@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[movetheworld]]></title>
         <description><![CDATA[movetheworld]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/movetheworld/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 19 Dec 2015 06:29:51 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 19 Dec 2015 06:30:19 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/movetheworld/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[CHAPTER 2]]></title>
+            <description><![CDATA[<h1>CHAPTER 2</h1>]]></description>
+            <link>https://thegrid.ai/movetheworld/chapter-2/index.html</link>
+            <guid isPermaLink="false">a4c5a943-9e88-4a7d-9c28-3845d350b913</guid>
+            <pubDate>Sat, 19 Dec 2015 06:30:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[THE BEGINNING]]></title>
             <description><![CDATA[<article><h1>THE BEGINNING</h1><p>http://image-store.slidesharecdn.com/0e65d900-5548-4c56-90f2-02a77f903579-original.jpeg</p></article>]]></description>
-            <link>undefinedthe-beginning/index.html</link>
+            <link>https://thegrid.ai/movetheworld/the-beginning/index.html</link>
             <guid isPermaLink="false">b72ed3d8-f232-486c-9414-be08e8ec30e1</guid>
             <pubDate>Sat, 19 Dec 2015 06:29:50 GMT</pubDate>
         </item>
